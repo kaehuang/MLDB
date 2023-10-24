@@ -31,8 +31,8 @@ This project aims to develop a simple yet efficient formula that takes a game po
      
 ## Resources
 
-- [GamesmanClassic Repo]([https://link-to-gamesman-repo](https://github.com/GamesCrafters/GamesmanClassic/tree/master))
-- [Brainome FAQ]([https://link-to-brainome-faq](https://www.brainome.ai/faq/))
-- [Previous Work on Tic-Tac-Toe by a GamesCrafter]([https://link-to-github-repo](https://github.com/SeongHyun-cloud/db-compression-ml))
-- [Brainome Quickstart]([https://link-to-brainome-quickstart](https://www.brainome.ai/documentation/quickstart/))
+- [GamesmanClassic Repo](https://link-to-gamesman-repo](https://github.com/GamesCrafters/GamesmanClassic/tree/master)
+- [Brainome FAQ](https://link-to-brainome-faq](https://www.brainome.ai/faq/)
+- [Previous Work on Tic-Tac-Toe by a GamesCrafter](https://link-to-github-repo](https://github.com/SeongHyun-cloud/db-compression-ml)
+- [Brainome Quickstart](https://link-to-brainome-quickstart](https://www.brainome.ai/documentation/quickstart/)
 - [PyTorch Tutorial for Beginners](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
