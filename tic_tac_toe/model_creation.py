@@ -47,7 +47,7 @@ def poisson_loss(output, target):
     return torch.exp(output) - target * output
 
 # Hyperparameters
-epochs = 50000
+epochs = 5000
 lr = 0.001
 
 # Define the model, loss, and optimizer
