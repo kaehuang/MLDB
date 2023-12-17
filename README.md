@@ -29,4 +29,5 @@ This project aims to develop a simple yet efficient formula that takes a game po
 
 - [GamesmanClassic Repo](https://link-to-gamesman-repo](https://github.com/GamesCrafters/GamesmanClassic/tree/master)
 - [Previous Work on Tic-Tac-Toe by a GamesCrafter](https://link-to-github-repo](https://github.com/SeongHyun-cloud/db-compression-ml)
-- [PyTorch Tutorial for Beginners](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
+- [PyTorch Tutorial for Beginners](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- [Training Data] (https://drive.google.com/drive/folders/1yApxs-GAC8E6PTBR0sHtGKA3PXrzEZNX?usp=drive_link)
