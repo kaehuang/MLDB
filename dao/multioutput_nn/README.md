@@ -1,7 +1,7 @@
 # DaoNet: A Hybrid Neural Network for the Dao Game
 
 ## Overview
-This document describes the architecture, training, and functionality of `DaoNet`, a neural network model developed for analyzing and predicting outcomes in the Dao board game. The model is designed to perform both classification (game outcome) and regression (remoteness score) tasks.
+This document describes the architecture, training, and functionality of `DaoNet`, a neural network model developed for analyzing and predicting outcomes in the Dao board game. The model is designed to perform both classification (game outcome) and regression (remoteness score) tasks. We are utilizing a larger game dataset to see if we can use ML to improve database compression.
 
 ## Data Preparation and Encoding
 - **Dataset**: The model is trained on data from a file named 'dao.csv'.
